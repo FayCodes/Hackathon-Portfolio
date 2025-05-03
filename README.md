@@ -49,9 +49,13 @@ Live Preview:
 
 Open the index.html file in your browser to view the portfolio.
 
+clink this link to view the portfolio: https://faycodes.github.io/Hackathon-Portfolio/
+
 🎯 Next Steps
 Add more projects or sections to further highlight my work.
 
 Improve the design and make any necessary updates to the layout.
 
 Add interactivity or animations using JavaScript.
+
+
